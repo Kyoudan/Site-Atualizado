@@ -8,7 +8,7 @@
 }
 
 body {
-    background: linear-gradient(93deg,#8585ff, #a0d4ff, #56aff8, #746aff);   
+    background: linear-gradient(93deg,#6161b9, #6b8eac, #356d9b, #413b91);   
     width: 900px;
     height: 820px; 
     animation: fundo 15s  ease-in-out infinite alternate;
